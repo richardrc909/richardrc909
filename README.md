@@ -20,7 +20,7 @@ Later, I came across Django, a robust and well-designed framework that enabled m
 ![Scrapy](https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
-<p align="center">
+<p align="left">
 <br>
 <a href="https://www.linkedin.com/in/ricardo-acebal-3280a9251/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
