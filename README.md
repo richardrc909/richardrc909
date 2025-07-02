@@ -2,6 +2,10 @@
 <h3 align="center"> Web Scraper | Backend Django </h3>
 
 ### 💻 &nbsp;About Me 
+I'm a passionate self-taught developer who began programming five years ago.
+I discovered my true interest in web scraping—every website and its unique structure presents a new challenge that keeps me motivated.
+Over time, I honed this skill into a complete workflow: extracting data, cleaning it, and storing it efficiently.
+Later, I came across Django, a robust and well-designed framework that enabled me to build powerful web applications and bring my ideas to life.
 
 ## 🛠 &nbsp;Tech Stack
 
