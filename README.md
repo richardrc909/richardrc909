@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ricardo Acebal</h1>
 <h3 align="center"> Web Scraper | Backend Django </h3>
 
+## 🛠 &nbsp;Tech Stack
+
+#### 🔧 Languages
+
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **richardrc909/richardrc909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
